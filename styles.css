@@ -1,0 +1,68 @@
+#team {
+  padding: 10px;
+}
+
+#headicon {
+  font-family: 'Bangers', cursive;
+  color: #527CE6;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'Bangers', cursive;
+  color: #527CE6;
+  font-size: 70px;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  color:#527CE6;
+}
+
+h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+  line-height: 200%;
+}
+
+body, p {
+  font-family: 'Lato', sans-serif;
+  line-height: 160%;
+  font-size: 14px;
+}
+
+.card-img-top {
+  height:100px !important;
+  width: 100px !important;
+  padding-top: 3%;
+}
+
+.container, .container-fluid {
+  padding: 5%;
+}
+
+.nav-link, .nav-item {
+  background: white;
+  color: #527CE6;
+}
+
+.active {
+  background: #527CE6 !important;
+  color: white !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #527CE6;
+  border-color: #527CE6;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #51CCD4;
+  border-color: #51CCD4;
+}
+
+.page-footer {
+  background:#527CE6;
+  color: white;
+}
